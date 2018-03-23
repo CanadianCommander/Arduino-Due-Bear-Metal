@@ -5,4 +5,4 @@ for its blink lead example while this uploads only 352 bytes!)
 I'm putting this up here in the hopes that it might help some one else. god knows it took 
 me all day to get this thing working.
 
-My big break came when looking at this repo : https://github.com/hannobraun/embedded 
+My big break came when looking at this repo: https://github.com/hannobraun/embedded this repo is like 70 % code ripped from there thanks hannobraun!
